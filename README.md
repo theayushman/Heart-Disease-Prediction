@@ -29,3 +29,7 @@ depression of > 0.05 mV); 2 = showing probable or definite left ventricular hype
 • ca: number of major vessels (0-3) colored by flourosopy
 • thal: (0 = error (in the original dataset 0 maps to NaN's); 1 = fixed defect; 2 = normal; 3 = reversable defect)
 • target (the lable): (0 = no disease; 1 = disease)
+
+## Proposed Model
+![image](https://github.com/theayushman/Heart-Disease-Prediction/assets/115260012/5dce4fb3-0f47-41df-80e2-f05ed0237d97)
+
